@@ -1,4 +1,4 @@
-# Weather & Electricity Consumption Analysis
+# Analyse-de-donnees-meteorologiques-avec-spark
 
 ## Description du projet
 Ce projet analyse l'impact des conditions météorologiques sur la consommation d'électricité en utilisant **Apache Spark** pour le traitement des données et **Streamlit** pour la visualisation des résultats. Les données météorologiques sont collectées toutes les 3 heures de 2013 à 2022 et sont croisées avec la consommation d'électricité.
@@ -11,7 +11,7 @@ Le projet comporte deux parties :
 Le projet est organisé comme suit :
 
 ```
-weather-analysis-with-spark/
+Analyse-de-donnees-meteorologiques-avec-spark/
 │-- bigdata_env/               # Environnement virtuel (à ignorer)
 │-- data/                      # Dossier contenant les fichiers de données
 │-- docs/                      # Documentation du projet
@@ -38,8 +38,8 @@ weather-analysis-with-spark/
 
 1. **Cloner le dépôt**
    ```sh
-   git clone https://github.com/votre-repo/weather-analysis-with-spark.git
-   cd weather-analysis-with-spark
+   git clone https://github.com/Hmd-02/weather-analysis-with-spark.git
+   cd Analyse-de-donnees-meteorologiques-avec-spark
    ```
 
 2. **Créer un environnement virtuel (optionnel mais recommandé)**
